@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8b23992c8eb17439887f5e944bf04a40, type: 3}
-  m_Name: SingleRollerBallLearningBrain
+  m_Name: StudentRollerBallILBrain
   m_EditorClassIdentifier: 
   brainParameters:
     vectorObservationSize: 8
@@ -21,5 +21,5 @@ MonoBehaviour:
     - 
     - 
     vectorActionSpaceType: 1
-  model: {fileID: 11400000, guid: e069d940e16253a4285321e5257902d3, type: 3}
+  model: {fileID: 11400000, guid: 25f3e55a295c6da4e829857dc1a6a463, type: 3}
   inferenceDevice: 0
